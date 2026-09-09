@@ -58,5 +58,5 @@
 ---
 
 ## Contact
-* **Email:** [본인 이메일 주소]
-* **GitHub:** [https://github.com/본인계정](https://github.com/본인계정)
+* **Email:** kurogensi@naver.com
+* **GitHub:** [https://github.com/Xikuro01/Data-Projects-Archive]
